@@ -37,7 +37,7 @@ If you have any issues when installing/upgrading the package please go to the [p
 ```
 https://github.com/xmha97/JCALnet/releases/download/v1.0.0/JCALnet.exe
 ```
-### NuPKG
+### NuGet package
 ```
 https://github.com/xmha97/JCALnet/releases/download/v1.0.0/JCALnet.nupkg
 ```
