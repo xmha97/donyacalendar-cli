@@ -5,7 +5,7 @@
 Free and open-source Jalali Calendar for Command line interface (CLI)
 
 ## Installation
-### Chocolatey (Unofficial)
+### Chocolatey
 
 Download and upgrade JCALnet from [Chocolatey](https://chocolatey.org).
 
