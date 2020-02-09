@@ -14,16 +14,22 @@ Free and open-source Jalali Calendar for Command line interface (CLI)
 
 Download and upgrade JCALnet from [Chocolatey](https://chocolatey.org).
 
-To install JCALnet, run the following command from the command line or from PowerShell:
+To install Jalali Calendar (.NET), run the following command from the command line or from PowerShell:
 
 ```powershell
-choco install jcalnet
+choco install jcalnet --version=1.0.0
 ```
 
-To upgrade JCALnet, run the following command from the command line or from PowerShell:
+To upgrade Jalali Calendar (.NET), run the following command from the command line or from PowerShell:
 
 ```powershell
-choco upgrade jcalnet
+choco upgrade jcalnet --version=1.0.0
+```
+
+To uninstall Jalali Calendar (.NET), run the following command from the command line or from PowerShell:
+
+```powershell
+choco uninstall jcalnet --version=1.0.0
 ```
 
 If you have any issues when installing/upgrading the package please go to the [package page](https://chocolatey.org/packages/jcalnet) and follow the [Chocolatey triage process](https://chocolatey.org/docs/package-triage-process)
