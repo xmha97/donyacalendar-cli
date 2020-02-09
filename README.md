@@ -1,7 +1,12 @@
 # Overview
 
-<img align="right" width="32" src="./Icon.png">
+<img align="right" width="128" src="./Icon.png">
 
+Free and open-source Jalali Calendar for Command line interface (CLI)
+Free and open-source Jalali Calendar for Command line interface (CLI)
+Free and open-source Jalali Calendar for Command line interface (CLI)
+Free and open-source Jalali Calendar for Command line interface (CLI)
+Free and open-source Jalali Calendar for Command line interface (CLI)
 Free and open-source Jalali Calendar for Command line interface (CLI)
 
 ## Installation
