@@ -1,21 +1,19 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>JCALnet</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0</version>
     <title>Jalali Calendar (.NET)</title>
     <authors>MohammadHosein Ammari</authors>
     <owners>MohammadHosein Ammari</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/xmha97/JCALnet/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/xmha97/JCALnet</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/xmha97/JCALnet/master/Icon.png</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Free and open-source Jalali Calendar for Command line interface (CLI)</description>
     <summary>Free and open-source Jalali Calendar for Command line interface (CLI)</summary>
     <releaseNotes>https://github.com/xmha97/JCALnet/commits/master</releaseNotes>
     <copyright>Copyright © MohammadHosein Ammari 2020</copyright>
     <tags>Jalali Calendar</tags>
-    <packageSourceUrl>https://github.com/xmha97/JCALnet</packageSourceUrl>
-    <bugTrackerUrl>https://github.com/xmha97/JCALnet/issues</bugTrackerUrl>
   </metadata>
 </package>
