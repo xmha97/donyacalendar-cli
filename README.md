@@ -1,4 +1,4 @@
-![JCALnet Logo](https://raw.githubusercontent.com/xmha97/JCALnet/master/Icon.png =48x48)
+![JCALnet Logo](https://raw.githubusercontent.com/xmha97/JCALnet/master/Icon.png | width=48)
 # JCALnet
 Free and open-source Jalali Calendar for Command line interface (CLI)
 ## Installation
