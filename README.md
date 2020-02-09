@@ -1,5 +1,9 @@
-<img src="https://raw.githubusercontent.com/xmha97/JCALnet/master/Icon.png" alt="JCALnet Logo" width="48" height="48" />JCALnet  
+# Overview
+
+<img align="right" width="200" src="./Icon.png">
+
 Free and open-source Jalali Calendar for Command line interface (CLI)
+
 ## Installation
 ### Chocolatey
 ```
