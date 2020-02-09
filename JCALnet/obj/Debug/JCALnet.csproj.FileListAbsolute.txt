@@ -1,0 +1,6 @@
+D:\MohammadHosein\Documents\Other\GitHub\JCALnet\jcalnet\bin\Debug\jcalnet.exe.config
+D:\MohammadHosein\Documents\Other\GitHub\JCALnet\jcalnet\bin\Debug\jcalnet.exe
+D:\MohammadHosein\Documents\Other\GitHub\JCALnet\jcalnet\bin\Debug\jcalnet.pdb
+D:\MohammadHosein\Documents\Other\GitHub\JCALnet\jcalnet\obj\Debug\JCALnet.csprojAssemblyReference.cache
+D:\MohammadHosein\Documents\Other\GitHub\JCALnet\jcalnet\obj\Debug\jcalnet.exe
+D:\MohammadHosein\Documents\Other\GitHub\JCALnet\jcalnet\obj\Debug\jcalnet.pdb
