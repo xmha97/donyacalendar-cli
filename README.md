@@ -9,8 +9,9 @@ Free and open-source calendar for command line interface (CLI)
 Free and open-source calendar for command line interface (CLI)  
 
 ## Installation
-### Install
 Download and upgrade gCAL from [Chocolatey](https://chocolatey.org).
+
+### Install
 
 To install gCAL, run the following command from the command line or from PowerShell:
 
