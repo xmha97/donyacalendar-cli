@@ -10,10 +10,15 @@
     <licenseUrl>https://github.com/xmha97/gCAL/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/xmha97/gCAL</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/xmha97/gCAL/master/Icon.png</iconUrl>
+    <docsUrl>https://github.com/xmha97/gCAL/blob/master/README.md</docsUrl>
+    <mailingListUrl>xmha97@gmail.com</mailingListUrl>
+    <bugTrackerUrl>https://github.com/xmha97/gCAL/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/xmha97/gCAL</projectSourceUrl>
+    <packageSourceUrl>https://github.com/xmha97/gCAL/releases</packageSourceUrl>
     <description>Free and open-source calendar for command line interface (CLI)</description>
     <summary>Global Calender</summary>
     <releaseNotes>https://github.com/xmha97/gCAL/commits/master</releaseNotes>
     <copyright>Copyright © Muhammad Hussein Ammari 2020</copyright>
-    <tags>Jalali Calendar</tags>
+    <tags>Jalali-Calendar</tags>
   </metadata>
 </package>
