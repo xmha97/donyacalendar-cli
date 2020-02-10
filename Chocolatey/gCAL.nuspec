@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>gCAL</id>
-    <version>1.0.0</version>
+    <version>1.1.0.0</version>
     <title>gCAL</title>
     <authors>Muhammad Hussein Ammari</authors>
     <owners>Muhammad Hussein Ammari</owners>
