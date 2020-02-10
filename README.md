@@ -32,6 +32,4 @@ choco uninstall gcal --version=1.0.0
 
 If you have any issues when installing/upgrading the package please go to the [package page](https://chocolatey.org/packages/gcal) and follow the [Chocolatey triage process](https://chocolatey.org/docs/package-triage-process)
 ### NuGet package
-```
-https://github.com/xmha97/gCAL/releases/download/v1.0.0/gCAL.1.1.0.0.nupkg
-```
+Download Chocolatey package file from [Release page](https://github.com/xmha97/gCAL/releases).
