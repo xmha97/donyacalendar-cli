@@ -4,6 +4,6 @@
   <dc:description>Free and open-source calendar for command line interface (CLI)</dc:description>
   <dc:identifier>gCAL</dc:identifier>
   <version>1.0.0</version>
-  <keywords>persian-calendar</keywords>
+  <keywords>Jalali Calendar</keywords>
   <lastModifiedBy>NuGet.Packaging, Version=5.5.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35;</lastModifiedBy>
 </coreProperties>
