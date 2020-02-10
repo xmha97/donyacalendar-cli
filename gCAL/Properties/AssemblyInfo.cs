@@ -9,10 +9,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("gCAL")]
 [assembly: AssemblyDescription("Free and open-source Calendar for CLI")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MohammadHosein Ammari")]
+[assembly: AssemblyCompany("Muhammad Hussein Ammari")]
 [assembly: AssemblyProduct("gCAL")]
-[assembly: AssemblyCopyright("Copyright © MohammadHosein Ammari 2020")]
-[assembly: AssemblyTrademark("gCAL is a registered trademark of MohammadHosein Ammari.")]
+[assembly: AssemblyCopyright("Copyright © Muhammad Hussein Ammari 2020")]
+[assembly: AssemblyTrademark("gCAL is a registered trademark of Muhammad Hussein Ammari.")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
