@@ -8,7 +8,6 @@ Free and open-source calendar for command line interface (CLI)
 Free and open-source calendar for command line interface (CLI)  
 Free and open-source calendar for command line interface (CLI)  
 Free and open-source calendar for command line interface (CLI)  
-Free and open-source calendar for command line interface (CLI)  
 
 ## Installation
 ### Chocolatey
