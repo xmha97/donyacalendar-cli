@@ -6,8 +6,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("gCAL")]
-[assembly: AssemblyDescription("Free and open-source Calendar for CLI")]
+[assembly: AssemblyTitle("gCAL Command Line")]
+[assembly: AssemblyDescription("gCAL Command Line")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Muhammad Hussein Ammari")]
 [assembly: AssemblyProduct("gCAL")]
