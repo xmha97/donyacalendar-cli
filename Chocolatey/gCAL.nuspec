@@ -14,7 +14,7 @@
     <summary>Global Calender for CLI</summary>
     <releaseNotes>https://github.com/xmha97/gCAL/commits/master</releaseNotes>
     <copyright>Copyright © Muhammad Hussein Ammari 2020</copyright>
-    <tags>Jalali-Calendar</tags>
+    <tags>Calendar Jalali-Calendar Persian-Calendar</tags>
     <projectSourceUrl>https://github.com/xmha97/gCAL</projectSourceUrl>
     <packageSourceUrl>https://github.com/xmha97/gCAL/tree/master/Chocolatey</packageSourceUrl>
     <docsUrl>https://github.com/xmha97/gCAL/blob/master/README.md</docsUrl>
