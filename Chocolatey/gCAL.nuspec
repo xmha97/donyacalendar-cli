@@ -3,22 +3,22 @@
   <metadata>
     <id>gCAL</id>
     <version>1.0.0</version>
-    <title>gCAL</title>
+    <title>Global Calender</title>
     <authors>Muhammad Hussein Ammari</authors>
     <owners>Muhammad Hussein Ammari</owners>
     <licenseUrl>https://github.com/xmha97/gCAL/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/xmha97/gCAL</projectUrl>
+    <projectUrl>https://xmha97.github.io/gCAL</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/xmha97/gCAL/master/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Free and open-source calendar for command line interface (CLI)</description>
-    <summary>Global Calender</summary>
+    <summary>Global Calender for CLI</summary>
     <releaseNotes>https://github.com/xmha97/gCAL/commits/master</releaseNotes>
     <copyright>Copyright © Muhammad Hussein Ammari 2020</copyright>
     <tags>Jalali-Calendar</tags>
     <projectSourceUrl>https://github.com/xmha97/gCAL</projectSourceUrl>
     <packageSourceUrl>https://github.com/xmha97/gCAL/tree/master/Chocolatey</packageSourceUrl>
     <docsUrl>https://github.com/xmha97/gCAL/blob/master/README.md</docsUrl>
-    <mailingListUrl>https://t.me/xmha97</mailingListUrl>
+    <mailingListUrl>https://gitter.im/gcalcli</mailingListUrl>
     <bugTrackerUrl>https://github.com/xmha97/gCAL/issues</bugTrackerUrl>
   </metadata>
 </package>
