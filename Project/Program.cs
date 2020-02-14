@@ -9,8 +9,6 @@ namespace gCAL
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("InterfaceLanguage: " + Properties.Settings.Default.InterfaceLanguage.ToString());
-                Console.WriteLine("CalendarType: " + Properties.Settings.Default.CalendarType.ToString());
                 DrawCalendar(DateTime.Now, true, true);
             }
             else
