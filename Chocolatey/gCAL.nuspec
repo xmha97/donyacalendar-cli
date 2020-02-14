@@ -3,7 +3,7 @@
   <metadata>
     <id>gCAL</id>
     <version>1.0.0</version>
-    <title>Global Calender</title>
+    <title>Global Calendar</title>
     <authors>Muhammad Hussein Ammari</authors>
     <owners>Muhammad Hussein Ammari</owners>
     <licenseUrl>https://github.com/xmha97/gCAL/blob/master/LICENSE</licenseUrl>
@@ -11,7 +11,7 @@
     <iconUrl>https://raw.githubusercontent.com/xmha97/gCAL/master/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Free and open-source calendar for command line interface (CLI)</description>
-    <summary>Global Calender for CLI</summary>
+    <summary>Global Calendar for CLI</summary>
     <releaseNotes>https://github.com/xmha97/gCAL/commits/master</releaseNotes>
     <copyright>Copyright © Muhammad Hussein Ammari 2020</copyright>
     <tags>Calendar Jalali-Calendar Persian-Calendar</tags>
