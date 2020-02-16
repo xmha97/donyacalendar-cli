@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace gCAL
+namespace donyacalendar
 {
     class Program
     {
