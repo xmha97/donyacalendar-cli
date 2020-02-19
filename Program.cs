@@ -49,8 +49,26 @@ namespace donyacalendar
             {
                 Console.Write(" ");
             }
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(t);
-            Console.WriteLine("Sh Ye Do Se Ch Pa Jo");
+            Console.ForegroundColor = ConsoleColor.Gray;
+            int tat = 6;
+
+            string[] dn = {"Sh", "Ye", "Do", "Se", "Ch", "Pa", "Jo"};
+            for (int i = 0; i < dn.Length; i++)
+            {
+                if (i == tat)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                }
+                   Console.Write(dn[i] + " ");
+            }
+            Console.Write("\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
             int days = p.GetDaysInMonth(p.GetYear(date), p.GetMonth(date));
             int currentDay = 1;
             int fas = (int)p.GetDayOfWeek(new DateTime(date.Year, date.Month, 1));
@@ -63,9 +81,13 @@ namespace donyacalendar
                     currentDay++;
                     if (currentDay > fas + 1)
                     {
+                        if (i == tat)
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                        }
                         if ((currentDay - fas - 1 == p.GetDayOfMonth(date)) && (highlightDay == true))
                         {
-                            Console.ForegroundColor = ConsoleColor.Black;
+                            Console.ForegroundColor = ConsoleColor.Gray;
                             Console.BackgroundColor = ConsoleColor.White;
                         }
                         string d = (currentDay - fas - 1).ToString();
